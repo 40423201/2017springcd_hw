@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423201-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-22T11:20:00+08:00</updated><entry><title>Week 5</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T11:20:00+08:00</published><updated>2017-03-22T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423201-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T11:20:00+08:00</updated><entry><title>Week 6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:20:00+08:00</published><updated>2017-03-29T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt; v-rep匯入作動&lt;/h1&gt;
+
+&lt;h2&gt;設定v-rep作動&lt;/h2&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/210448404" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/210448404"&gt;40423201V-ep運動設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201機械設計工程系協&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1&gt;上課筆記&lt;/h1&gt;
+
+&lt;p&gt;&lt;h&gt;1. 全自動的 start.bat 與 stop.bat 設定&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;使用者可以完全控制近端 (隨身碟或隨身硬碟) 上的 Fossil SCM Server 啟動, 並且登入進行 Wiki 與 Technote 的內容管理&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用者可以在近端練習各種 Fossil SCM 的指令與連桿位置 tracking 驗證程式的開發&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用者已經可以利用 Solvespace 與 OnShape 繪製 one-link, four-bar 與 Jansen's Linkage 機構, 並且將模型導入 V-rep&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用者已經可以完成 V-rep 模擬平台上的 one-link velocity and position control&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用者學習如何透過 loop closure 設定, 將 four-bar linkage 從 Solvespace 與 OnShape 轉入 V-rep 進行 Python Remote API 的 position and velocity 控制&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用者學習如何利用 OnShape 在瀏覽器中進行 one-link 與 four-bar linkage 的運動模擬, 轉出 public link 放到個人的簡報與網誌中.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用者必須完成以上各階段的操作流程說明與操作影片拍攝, 並透過簡報與網誌完成個人的期中專案報告.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;期中考後則陸續完成 Jansen's Linkage 的 OnShape 運動模擬與 V-rep 平台上的 Python Remote API position 與 velocity control simulation&lt;/h&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="teach"></category></entry><entry><title>Week 5</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T11:20:00+08:00</published><updated>2017-03-22T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt; v-rep匯入作動&lt;/h1&gt;
 
@@ -11,7 +49,7 @@
 
 &lt;h1&gt;心得&lt;/h1&gt;
 
-&lt;h2&gt;再設定的過程看老師影片有一些地方不太了解,實際去研究一些功能後越來越能活用這個軟體&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week 4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:20:00+08:00</published><updated>2017-03-15T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;h&gt;在設定的過程看老師影片有一些地方不太了解,實際去研究一些功能後越來越能活用這個軟體&lt;/h&gt;&lt;/p&gt;</summary><category term="teach"></category></entry><entry><title>Week 4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:20:00+08:00</published><updated>2017-03-15T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;線上 倉儲&lt;/h2&gt;
 
