@@ -11,7 +11,8 @@
 
 &lt;h1&gt;上課筆記&lt;/h1&gt;
 
-&lt;p&gt;&lt;h&gt;1. 全自動的 start.bat 與 stop.bat 設定&lt;/p&gt;
+&lt;p&gt;&lt;h&gt;
+1. 全自動的 start.bat 與 stop.bat 設定&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;使用者可以完全控制近端 (隨身碟或隨身硬碟) 上的 Fossil SCM Server 啟動, 並且登入進行 Wiki 與 Technote 的內容管理&lt;/p&gt;
