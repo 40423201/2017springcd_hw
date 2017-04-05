@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423201-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T11:20:00+08:00</updated><entry><title>Week 6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:20:00+08:00</published><updated>2017-03-29T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423201-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T11:20:00+08:00</updated><entry><title>Week 6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:20:00+08:00</published><updated>2017-03-29T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h1&gt; v-rep匯入作動&lt;/h1&gt;
+&lt;h1&gt;四連桿&lt;/h1&gt;
 
-&lt;h2&gt;設定v-rep作動&lt;/h2&gt;
+&lt;h2&gt;四連桿零件&lt;/h2&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/210448404" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/211594708" width="640" height="439" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/210448404"&gt;40423201V-ep運動設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201機械設計工程系協&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211594708"&gt;40423201四連桿零件&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201機械設計工程系協&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
+&lt;h2&gt;四連桿組合&lt;/h2&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/211594891" width="640" height="439" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/211594891"&gt;40423201四連趕組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201機械設計工程系協&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1&gt;四連桿匯入v-rep&lt;/h1&gt;
+
+&lt;p&gt;影片正在處理&lt;/p&gt;
 &lt;h1&gt;上課筆記&lt;/h1&gt;
 
 &lt;p&gt;1. 全自動的 start.bat 與 stop.bat 設定&lt;/p&gt;
