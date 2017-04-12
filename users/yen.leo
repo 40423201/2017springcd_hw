@@ -199,7 +199,7 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="yen.20170108171622.1">2017 Spring CD 機械設計工程系協同產品設計實習
 
-倉儲位置: https://github.com/mdecourse/2017springcd
+倉儲位置: https://github.com/40423201/2017springcd_hw
 
 每一協同成員都應該要在 users 目錄下有一個 Leo 檔案
 
