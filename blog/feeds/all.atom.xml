@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423201-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T11:20:00+08:00</updated><entry><title>Week 6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T11:20:00+08:00</published><updated>2017-03-29T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423201-2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-05T11:20:00+08:00</updated><entry><title>Week7</title><link href="./Week%207.html" rel="alternate"></link><published>2017-04-05T11:20:00+08:00</published><updated>2017-04-05T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-04-05:./Week 7.html</id><summary type="html">&lt;p&gt;摘要:繪製八連桿組立&lt;/p&gt;
+
+
+&lt;h1&gt;onshape畫出八連桿&lt;/h1&gt;
+
+&lt;h2&gt;八連桿零件繪製&lt;/h2&gt;
+
+&lt;p&gt;零件一
+&lt;iframe src="https://player.vimeo.com/video/213728424" width="640" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213728424"&gt;40423201 八連桿零件&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201機械設計工程系協&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;零件二
+&lt;iframe src="https://player.vimeo.com/video/213728425" width="640" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213728425"&gt;40423201 八連桿零件2&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201機械設計工程系協&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h2&gt;八連桿組合&lt;/h2&gt;
+
+&lt;h1&gt;八連桿導入v-rep作動&lt;/h1&gt;
+
+&lt;p&gt;尚未完成&lt;/p&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+
+&lt;p&gt;經過上次組過四連桿機構的經驗後，對於這次的作業是更加得心應手,相信之後做類似作業都能夠應對的來&lt;/p&gt;</summary><category term="teach"></category></entry><entry><title>Week 6</title><link href="./Week%206(20170329).html" rel="alternate"></link><published>2017-03-29T11:20:00+08:00</published><updated>2017-03-29T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-29:./Week 6(20170329).html</id><summary type="html">&lt;p&gt;摘要 : 在v-rep匯入用Onshape繪製的四連桿機構，並使他作動&lt;/p&gt;
+
 
 &lt;h1&gt;四連桿&lt;/h1&gt;
 
@@ -13,7 +34,7 @@
 
 &lt;iframe src="https://player.vimeo.com/video/211594891" width="640" height="439" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/211594891"&gt;40423201四連趕組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201機械設計工程系協&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211594891"&gt;40423201四連桿組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201機械設計工程系協&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1&gt;四連桿匯入v-rep&lt;/h1&gt;
 
@@ -21,25 +42,10 @@
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212843349"&gt;v-rep&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201機械設計工程系協&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h1&gt;上課筆記&lt;/h1&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
 
-&lt;p&gt;1. 全自動的 start.bat 與 stop.bat 設定&lt;/p&gt;
+&lt;p&gt;這次是畫四連桿，多了較多零件，不過上次畫過單連桿，對於軟體也有比較熟悉了，所以操作起來還算可以。&lt;p/&gt;</summary><category term="teach"></category></entry><entry><title>Week 5</title><link href="./Week%205(20170322).html" rel="alternate"></link><published>2017-03-22T11:20:00+08:00</published><updated>2017-03-22T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-22:./Week 5(20170322).html</id><summary type="html">&lt;p&gt;摘要 : 在v-rep匯入用Onshape繪製的單連桿機構，並使他作動&lt;/p&gt;
 
-&lt;p&gt;2. 使用者可以完全控制近端 (隨身碟或隨身硬碟) 上的 Fossil SCM Server 啟動, 並且登入進行 Wiki 與 Technote 的內容管理&lt;/p&gt;
-
-&lt;p&gt;3. 使用者可以在近端練習各種 Fossil SCM 的指令與連桿位置 tracking 驗證程式的開發&lt;/p&gt;
-
-&lt;p&gt;4. 使用者已經可以利用 Solvespace 與 OnShape 繪製 one-link, four-bar 與 Jansen's Linkage 機構, 並且將模型導入 V-rep&lt;/p&gt;
-
-&lt;p&gt;5. 使用者已經可以完成 V-rep 模擬平台上的 one-link velocity and position control&lt;/p&gt;
-
-&lt;p&gt;6. 使用者學習如何透過 loop closure 設定, 將 four-bar linkage 從 Solvespace 與 OnShape 轉入 V-rep 進行 Python Remote API 的 position and velocity 控制&lt;/p&gt;
-
-&lt;p&gt;7. 使用者學習如何利用 OnShape 在瀏覽器中進行 one-link 與 four-bar linkage 的運動模擬, 轉出 public link 放到個人的簡報與網誌中.&lt;/p&gt;
-
-&lt;p&gt;8. 使用者必須完成以上各階段的操作流程說明與操作影片拍攝, 並透過簡報與網誌完成個人的期中專案報告.&lt;/p&gt;
-
-&lt;p&gt;9. 期中考後則陸續完成 Jansen's Linkage 的 OnShape 運動模擬與 V-rep 平台上的 Python Remote API position 與 velocity control simulation&lt;/p&gt;</summary><category term="teach"></category></entry><entry><title>Week 5</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T11:20:00+08:00</published><updated>2017-03-22T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt; v-rep匯入作動&lt;/h1&gt;
 
@@ -49,15 +55,24 @@
 
 &lt;p&gt;&lt;a href="https://vimeo.com/210448404"&gt;40423201V-ep運動設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201機械設計工程系協&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
+&lt;h1&gt;上課筆記&lt;/h1&gt;
+
+&lt;p&gt;fossil scm server分組設定&lt;/p&gt;
+
+&lt;p&gt;建立和project name同名的首頁wiki&lt;/p&gt;
+
+&lt;p&gt;選擇不同wiki編輯模式Fossil wiki(安全度最高)ˋMarkdown(安全度次之，可放入iframe)ˋHtml(安全度最低)&lt;/p&gt;
+
 &lt;h1&gt;心得&lt;/h1&gt;
 
-&lt;p&gt;&lt;h&gt;在設定的過程看老師影片有一些地方不太了解,實際去研究一些功能後越來越能活用這個軟體&lt;/h&gt;&lt;/p&gt;</summary><category term="teach"></category></entry><entry><title>Week 4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:20:00+08:00</published><updated>2017-03-15T11:20:00+08:00</updated><author><name>40423203</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;在設定的過程看老師影片有一些地方不太了解,實際去研究一些功能後越來越能活用這個軟體&lt;/p&gt;</summary><category term="teach"></category></entry><entry><title>Week 4</title><link href="./Week%204(20170315).html" rel="alternate"></link><published>2017-03-15T11:20:00+08:00</published><updated>2017-03-15T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-15:./Week 4(20170315).html</id><summary type="html">&lt;p&gt;摘要 : 翻譯英文逐字稿以及用solvespace和onshape繪製單連桿機構並轉入v-rep&lt;/p&gt;
+
 
 &lt;h2&gt;線上 倉儲&lt;/h2&gt;
 
 &lt;p&gt;要在https://mde2a2.kmol.info 中建立第四組的倉儲&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://mde2a2.kmol.info/cdbg4/wcontent"&gt;第四組&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;40423203 40423201 hyperworks 14-3 翻譯 &lt;/h2&gt;
+&lt;h2&gt;40423201 40423203 hyperworks 14-3 翻譯 &lt;/h2&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/209437836" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -114,9 +129,11 @@ the configurations that you normally deal with cad model &lt;/p&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/209436437"&gt;單連桿機構匯入 v-rep&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201機械設計工程系協&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h1&gt;心得 &lt;/h1&gt;
 
-&lt;h2&gt;如果在solvespace上畫好而且能夠正常作動,那是不是代表實體作動,如果真的能夠這樣solvespace會成為很好用的工具&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week 3</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-10T11:20:00+08:00</published><updated>2017-03-10T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-10:./Week 3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;如果在solvespace上畫好而且能夠正常作動,那是不是代表實體作動,如果真的能夠這樣solvespace會成為很好用的工具&lt;p/&gt;
+&lt;p&gt;這次英文翻譯的作業實在是令人感到困難，也知道自己英文能力的不足。用聽的沒字幕只能聽到隻字片語，大概知道是什麼意思，還好youtube有自動翻譯字幕功能，有了字幕翻譯起來簡單多了，不果過還是需要查一些單字才能完成這份作業。&lt;p/&gt;</summary><category term="teach"></category></entry><entry><title>Week 3</title><link href="./Week%203(20170310).html" rel="alternate"></link><published>2017-03-10T11:20:00+08:00</published><updated>2017-03-10T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-10:./Week 3(20170310).html</id><summary type="html">&lt;p&gt;摘要 : 將solvespace三角形模擬軌跡和onshape四連桿組立轉入v-rep&lt;/p&gt;
+
 
 &lt;h2&gt;solvespace三角形模擬軌跡&lt;/h2&gt;
 
@@ -160,9 +177,10 @@ the configurations that you normally deal with cad model &lt;/p&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/208328847"&gt;40423201將onshape組立轉入v-rep&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2&gt;心得:&lt;/h2&gt;
+&lt;h1&gt;心得 &lt;/h1&gt;
 
-&lt;h2&gt;這一次將自己構想的程式轉入v-rep可以直接知道能不能實際完成動作,這樣就不會浪費成本了&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week 2</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-04T11:20:00+08:00</published><updated>2017-03-04T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-04:./Week 2.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;這一次將自己構想的程式轉入v-rep可以直接知道能不能實際完成動作,這樣就不會浪費成本了。&lt;p/&gt;</summary><category term="teach"></category></entry><entry><title>Week 2</title><link href="./Week%202(20170301).html" rel="alternate"></link><published>2017-03-04T11:20:00+08:00</published><updated>2017-03-04T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-03-04:./Week 2(20170301).html</id><summary type="html">&lt;p&gt;摘要 : 用solvespace和onshape模擬單軸旋轉連桿系統和四連桿系統&lt;/p&gt;
+
 
 &lt;h2&gt;組合&lt;/h2&gt;
 
@@ -194,13 +212,30 @@ the configurations that you normally deal with cad model &lt;/p&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/207329339"&gt;40423201零件三&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2&gt;心得:本周要用solvespace和onshape來模擬單軸旋轉連桿系統和四連桿系統。繪圖過程中，覺得有比上學期還了解如何操作solvespace和onshape的功能。
-此外還介紹到stunnel:自由的誇平台軟體，用於提供全局的TLS/SSL服務，可提供安全的加密連線。&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week 1</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-22T11:20:00+08:00</published><updated>2017-02-22T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-02-22:./Week 1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;h1&gt;心得 &lt;/h1&gt;
 
-&lt;p&gt;ipconfig/all尋找IP位置再去stunnel.conf把裡面的IP改成自己電腦的
+&lt;p&gt;本周要用solvespace和onshape來模擬單軸旋轉連桿系統和四連桿系統。繪圖過程中，覺得有比上學期還了解如何操作solvespace和onshape的功能。
+&lt;p/&gt;
+&lt;p&gt;
+此外還介紹到stunnel:自由的誇平台軟體，用於提供全局的TLS/SSL服務，可提供安全的加密連線。
+&lt;p/&gt;</summary><category term="teach"></category></entry><entry><title>Week 1</title><link href="./Week%201(20170222).html" rel="alternate"></link><published>2017-02-22T11:20:00+08:00</published><updated>2017-02-22T11:20:00+08:00</updated><author><name>40423201</name></author><id>tag:,2017-02-22:./Week 1(20170222).html</id><summary type="html">&lt;p&gt;摘要 : 課程內容介紹 - Fossil SCM簡介和V-rep簡介&lt;/p&gt;
+
+
+&lt;p&gt;ipconfig/all尋找IP位置再去stunnel.conf把裡面的IP改成自己電腦的&lt;/p&gt;
+
+&lt;h1&gt;上課筆記&lt;/h1&gt;
+
+&lt;p&gt;
+Fossil SCM簡介 : Fossil SCM 是一套軟體配置管理 (Software Configuration Management) 系統, 其中包含分散式版次控管 (DVC, Distributed Version Control) 、Wiki 、Bug Tracking 與 Technote 等功能, 可以用來控制及追蹤軟體開發專案, 並且紀錄專案開發歷程
 &lt;/p&gt;
 
-&lt;p&gt;心得:新的學期開始了，這個學期進入協同產品設計的課程
-這個禮拜介紹了Fossil SCM簡介，簡單來說，這是管理小的系統，而git是管理大的系統
-另外還介紹了V-rep簡介，這是一套機器人模擬軟體。
-&lt;/p&gt;</summary><category term="teach"></category></entry></feed>
+&lt;p&gt;
+V-rep簡介 : V- REP 是機器人仿真中最頂級的軟體，集成開發環境並基於分佈式控制結構：每個對象/模型可以通過內嵌的腳本、插件、ROS 節點、遠程 API 客戶端或定制的解決方案單獨控制。這使得V- REP用途很廣，適用於多機器人應用。控制器可以用 C / C ++ ，Python、Java、Lua、MATLAB、Octave 或 Urbi. 
+V- REP 用於快速算法開發、工廠自動化仿真、快速原型和驗證、相關教育、遠程監控機器人、雙安全檢查等。​
+&lt;p&gt;V-rep Overview&lt;p/&gt;
+&lt;p&gt;http://www.coppeliarobotics.com/assets/v-repoverviewpresentation.pdf &lt;p/&gt;
+&lt;/p&gt;
+&lt;h1&gt;心得 &lt;/h1&gt;
+&lt;p&gt;新的學期開始了，這個學期進入協同產品設計的課程。&lt;/p&gt;
+&lt;p&gt;這個禮拜介紹了Fossil SCM簡介，簡單來說，這是管理小的系統，而git是管理大的系統。&lt;/p&gt;
+&lt;p&gt;另外還介紹了V-rep簡介，這是一套機器人模擬軟體。&lt;/p&gt;</summary><category term="teach"></category></entry></feed>
