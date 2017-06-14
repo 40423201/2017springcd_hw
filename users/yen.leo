@@ -59,11 +59,7 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<<<<<<< HEAD
 <v t="leo.20170614092130.1"><vh>@edit 20170614.md</vh></v>
-=======
-<v t="leo.20170614093547.1"><vh>@edit 20170614.md</vh></v>
->>>>>>> 1b8fc82a4d853acc3bdfea1f893ca34dcbcf6cb6
 <v t="leo.20170329090003.1"><vh>@edit 20170531.md</vh></v>
 <v t="leo.20170531093418.1"><vh>@edit 20170510.md</vh></v>
 <v t="leo.20170517102505.1"><vh>@edit 20170503.md</vh></v>
